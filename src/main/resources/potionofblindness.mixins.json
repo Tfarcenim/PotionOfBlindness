@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "tfar.examplemod.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "main.refmap.json",
+  "mixins": [
+    "MixinLivingEntity",
+    "MixinEntityPredicate"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "minVersion": "0.8"
+}
