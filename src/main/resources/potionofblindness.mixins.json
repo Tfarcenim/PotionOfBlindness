@@ -2,7 +2,7 @@
   "required": true,
   "package": "tfar.examplemod.mixin",
   "compatibilityLevel": "JAVA_8",
-  "refmap": "main.refmap.json",
+  "refmap": "potionofblindness.refmap.json",
   "mixins": [
     "MixinLivingEntity",
     "MixinEntityPredicate"
